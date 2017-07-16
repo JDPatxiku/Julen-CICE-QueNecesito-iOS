@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  Qué necesito
+
+  Created by Julen Diéguez Amunárriz on 3/7/17.
+  Copyright © 2017 Julen Diéguez Amunárriz. All rights reserved.
+*/
+"appname" = "Qué necesito";
+"logInText" = "Iniciar sesión";
+"logInEmail" = "Email";
+"logInPassword" = "Contraseña";
+"logInNoAccountYet" = "¿No tienes cuenta? Crear una.";
+"logInFieldMissingError" = "Te has olvidado de introducir el email y/o contraseña";
+"logInError" = "Email y/o contraseña incorrectos";
+"authenticating" = "Iniciando sesión...";
+"signUpText" = "Crear cuenta";
+"signUpName" = "Nombre";
+"signUpEmail" = "Email";
+"signUpPassword" = "Contraseña";
+"signUpRepeatPassword" = "Repetir contraseña";
+"signUpNumber" = "Teléfono";
+"signUpAccountAlready" = "¿Tienes una cuenta? Inicia sesión.";
+"signUpProcess" = "Creando cuenta...";
+"signUpEmailError" = "El email introducido no es válido";
+"signUpPasswordEmptyError" = "Ha olvidado introducir una contraseña";
+"signUpNameError" = "Ha olvidado introducir un nombre";
+"signUpPasswordMatchError" = "Las contraseñas no concuerdan";
+"signUpPasswordLengthError" = "La contraseña ha de tener al menos 6 caracteres";
+"signUpError" = "Error creando la cuenta, intentelo de nuevo";
+"signUpNumberNotAchieved" = "No se pudo encontrar un número de telefono";
+"signUpNumberExistsError" = "El número de teléfono introducido está en uso por otra cuenta";
+"createListName" = "Nombre";
+"createListDescription" = "Descripción";
+"createListButton" = "Crear nueva lista";
+"createListDialog" = "Creando lista...";
+"createListNameLengthError" = "El nombre de la lista no puede estar vacio";
+"createListDescriptionLengthError" = "La descripción de la lista no puede estar vacia";
+"editAccountBtn" = "Guardar cambios";
+"editAccountName" = "Nombre:";
+"editAccountNameError" = "El nombre no es correcto";
+"menuCreateNew" = "Crear nueva lista";
+"menuAccount" = "Cuenta";
+"menuEditAccount" = "Editar cuenta";
+"menuDisconnect" = "Desconectar";
+"menuAddUser" = "Añadir usuario";
+"deleteGroupDialogTitle" = "Atención";
+"deleteGroupDialogBtnOk" = "Sí";
+"deleteGroupDialogBtnCancel" = "No";
+"deleteGroupDialogMsg" = "Está a punto de borrar la lista. \n ¿Está seguro?";
+"itemListName" = "Producto:";
+"itemListBrand" = "Marca:";
+"createItem" = "Crear producto";
+"createItemName" = "Nombre";
+"createItemBrand" = "Marca";
+"createItemPrice" = "Precio";
+"createItemQuantity" = "Cantidad: ";
+"createItemButton" = "Crear producto";
+"createItemNameError" = "No ha introducido un nombre para el producto";
+"addUserDialogTitle" = "Atención";
+"addUserDialogMsg" = "¿Quiere compartir la lista con este usuario?";
+"addUserDialogBtnOk" = "Sí";
+"addUserDialogBtnCancel" = "No";
+"addUserErrorDialogTitle" = "Error";
+"addUserErrorDialogMsg" = "Se requiere su permiso sobre los contactos, por favor acceda a ajustes -> privacidad -> contactos y habilite el permiso sobre Qué necesito";
+"addUserErrorDialogOk" = "Ok";

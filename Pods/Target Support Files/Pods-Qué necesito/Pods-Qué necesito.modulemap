@@ -1,0 +1,6 @@
+framework module Pods_Que__necesito {
+  umbrella header "Pods-Qué necesito-umbrella.h"
+
+  export *
+  module * { export * }
+}

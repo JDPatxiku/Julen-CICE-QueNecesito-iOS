@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; accessibilityLabel = "txtPassword"; ObjectID = "VyL-ST-PR8"; */
+"VyL-ST-PR8.accessibilityLabel" = "txtPassword";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VyL-ST-PR8"; */
+"VyL-ST-PR8.text" = "Label";
+
+/* Class = "UILabel"; accessibilityLabel = "txtRegister"; ObjectID = "bZD-zJ-G5X"; */
+"bZD-zJ-G5X.accessibilityLabel" = "txtRegister";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bZD-zJ-G5X"; */
+"bZD-zJ-G5X.text" = "Label";
+
+/* Class = "UITextField"; accessibilityLabel = "edtEmail"; ObjectID = "f0I-yL-vg6"; */
+"f0I-yL-vg6.accessibilityLabel" = "edtEmail";
+
+/* Class = "UIButton"; accessibilityLabel = "btnLogin"; ObjectID = "jF2-KU-PPx"; */
+"jF2-KU-PPx.accessibilityLabel" = "btnLogin";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jF2-KU-PPx"; */
+"jF2-KU-PPx.normalTitle" = "Button";
+
+/* Class = "UILabel"; accessibilityLabel = "txtEmail"; ObjectID = "rTk-qV-Kq5"; */
+"rTk-qV-Kq5.accessibilityLabel" = "txtEmail";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rTk-qV-Kq5"; */
+"rTk-qV-Kq5.text" = "Label";
+
+/* Class = "UITextField"; accessibilityLabel = "edtPassword"; ObjectID = "twX-zO-uxp"; */
+"twX-zO-uxp.accessibilityLabel" = "edtPassword";

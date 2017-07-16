@@ -1,0 +1,63 @@
+/*
+ Localizable.strings
+ Qué necesito
+ 
+ Created by Julen Diéguez Amunárriz on 3/7/17.
+ Copyright © 2017 Julen Diéguez Amunárriz. All rights reserved.
+ */
+"appname" = "Qué necesito";
+"logInText" = "Log in";
+"logInEmail" = "E-mail";
+"logInPassword" = "Password";
+"logInNoAccountYet" = "You don't have an account yet? Create one.";
+"logInFieldMissingError" = "Did you forget to enter the email and / or the password?";
+"logInError" = "Incorrect email and / or password";
+"authenticating" = "Logging in...";
+"signUpText" = "Create account";
+"signUpName" = "Name";
+"signUpEmail" = "E-mail";
+"signUpPassword" = "Password";
+"signUpRepeatPassword" = "Repeat password";
+"signUpNumber" = "Telephone";
+"signUpAccountAlready" = "Do you have an account? Log in.";
+"signUpProcess" = "Creating account...";
+"signUpEmailError" = "The entered email is not valid";
+"signUpPasswordEmptyError" = "You forgot to enter a password";
+"signUpNameError" = "You forgot to enter a name";
+"signUpPasswordMatchError" = "The passwords do not match";
+"signUpPasswordLengthError" = "The password must be at least 6 characters";
+"signUpError" = "Error creating account, please try again";
+"signUpNumberNotAchieved" = "A phone number could not be found";
+"signUpNumberExistsError" = "The entered phone number is in use by another account";
+"createListName" = "Name";
+"createListDescription" = "Description";
+"createListButton" = "Create new list";
+"createListDialog" = "Creating list...";
+"createListNameLengthError" = "The list name can not be empty";
+"createListDescriptionLengthError" = "The list description can not be empty";
+"editAccountBtn" = "Save changes";
+"editAccountName" = "Name:";
+"editAccountNameError" = "The name is not correct";
+"menuCreateNew" = "Create new list";
+"menuAccount" = "Account";
+"menuEditAccount" = "Edit account";
+"menuDisconnect" = "Disconnect";
+"menuAddUser" = "Add user";
+"deleteGroupDialogTitle" = "Attention";
+"deleteGroupDialogBtnOk" = "Yes­";
+"deleteGroupDialogBtnCancel" = "No";
+"deleteGroupDialogMsg" = "You are about to delete the list. \n Are you sure?";
+"itemListName" = "Product:";
+"itemListBrand" = "Brand:";
+"createItem" = "Create product";
+"createItemName" = "Name";
+"createItemBrand" = "Brand";
+"createItemPrice" = "Price";
+"createItemQuantity" = "Quantity: ";
+"createItemButton" = "Create product";
+"createItemNameError" = "You have not entered a name for the product";
+"addUserDialogTitle" = "Attention";
+"addUserDialogMsg" = "Do you want to share the list with this user?";
+"addUserDialogBtnOk" = "Yes­";
+"addUserErrorDialogMsg" = "Your permission is required on the contacts, please access settings -> privacy -> contacts and enable permission on Qué necesito";
+"addUserDialogBtnCancel" = "No";
