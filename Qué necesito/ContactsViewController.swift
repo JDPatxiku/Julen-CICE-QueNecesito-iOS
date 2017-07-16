@@ -84,7 +84,8 @@ class ContactsViewController: UIViewController, UITableViewDataSource, UITableVi
         let ref = Database.database().reference().child("numbers")
         ref.keepSynced(true)
         ref.observeSingleEvent(of: .value, with: { (snapshot) in
-            for (key, value) in (snapshot.value as? NSDictionary)!{
+            let dataValue = snapshot.value as? NSDictionary
+            for (key, value) in dataValue!{
                 if key as? String != self.userNumber{
                     if !self.checkIfGroupAlreadyContainsUser(uID: value as! String){
                         if self.numberExistsOnDatabase(number: key as! String){
